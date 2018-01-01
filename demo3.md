@@ -20,11 +20,11 @@ ___
 - [ ] item2
 - [x] item3
 
-### emoji（表情符号）
-①格式：:emoji-code:
-②表情符号代码列表
-:snake:
+### emoji（表情符号）  
+①格式：:emoji-code:  
+②表情符号代码列表  
+:snake:  
 
-[果冻虾仁整理列表](https://github.com/guodongxiaren/README/blob/master/emoji.md)
-[表情符号官网](http://www.emoji-cheat-sheet.com/)
-[果冻虾仁GFM语法简介](https://github.com/guodongxiaren/README)
+[果冻虾仁整理列表](https://github.com/guodongxiaren/README/blob/master/emoji.md)  
+[表情符号官网](http://www.emoji-cheat-sheet.com/)  
+[果冻虾仁GFM语法简介](https://github.com/guodongxiaren/README)  
